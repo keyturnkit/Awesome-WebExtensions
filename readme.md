@@ -80,6 +80,7 @@ Apps that help you manage your extensions.
 - [create-webextension](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 - [WXT](https://github.com/wxt-dev/wxt) - Next-gen framework for developing web extensions.
+- [Keyturn Kit](https://github.com/keyturnkit/keyturn-kit) - WXT and React starter that checks Lemon Squeezy license keys from the extension, with no backend.
 
 ## Sample Extensions
 
